@@ -24,16 +24,18 @@ If you need help contributing to the repo check out these [guides](https://guide
 by GitHub, ask a session leader, or send a mention on twitter to [@jessevondoom](https://twitter.com/jessevondoom)
 — we'll get you sorted one way or another. 
   
+  
+=================================================  
 
-
+  
 ### Links that might come in handy:
 p5.js:  
-https://github.com/lmccart/p5.js/  
-https://github.com/therewasaguy/p5-music-viz   
+  - https://github.com/lmccart/p5.js/  
+  - https://github.com/therewasaguy/p5-music-viz   
   
 cashmusic.js:
-https://github.com/cashmusic/cashmusic.js/  
-http://cashmusic.github.io/cashmusic.js/   
-http://cashmusic.github.io/cashmusic.js/docs/   
-http://cashmusic.github.io/cashmusic.js/demos/throwingmuses/   
-http://cashmusic.github.io/cashmusic.js/demos/notthe1s/   
+  - https://github.com/cashmusic/cashmusic.js/  
+  - http://cashmusic.github.io/cashmusic.js/   
+  - http://cashmusic.github.io/cashmusic.js/docs/   
+  - http://cashmusic.github.io/cashmusic.js/demos/throwingmuses/   
+  - http://cashmusic.github.io/cashmusic.js/demos/notthe1s/   
