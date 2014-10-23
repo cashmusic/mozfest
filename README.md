@@ -24,6 +24,9 @@ If you need help contributing to the repo check out these [guides](https://guide
 by GitHub, ask a session leader, or send a mention on twitter to [@jessevondoom](https://twitter.com/jessevondoom)
 — we'll get you sorted one way or another. 
   
+## Sessions
+  - [Exploring web audio from different perspectives](sessions/webaudio.md)  
+  - [Building front-end for artists](sessions/frontend.md)  
   
 =================================================  
 
