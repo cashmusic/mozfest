@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	padding: 20px;
+	background-color: #000000;
+	color: #ffffff;
+}
+
+a {
+	display: block;
+	margin-bottom: 20px;
+	color: #ffffff;
+}
+
+canvas {
+	display: block;
+	background-color: #000000;
+}
