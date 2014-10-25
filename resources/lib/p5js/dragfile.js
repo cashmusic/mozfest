@@ -1,15 +1,14 @@
 /**
  *  dragfile.js is a lil helper for dragging audio files onto divs or p5.Grpahics.
  *
- *  function makeDropZone(c, soundFile) {
- *    var dropZone = new AudioDropZone(c);
- *    dropZone.onTransfer = function(buf) {
- *      soundFile.buffer = buf;
- *      soundFile.stop();
- *      soundFile.play();
+ *  function makeDropZone(myCanvas, soundFile) {
+ *    var dropZone = new AudioDropZone(myCanvas);
+ *    dropZone.onTransfer = function(newBuffer) {
+ *      soundFile.buffer = newBuffer;
  *    };
- * }
+ *  }
  */
+
 
 
 // Check for the various File API support.
