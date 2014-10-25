@@ -98,5 +98,4 @@ AudioDropZone.prototype.decodeArrayBuffer = function(arrayBuffer, callback, erro
 function handleDragOver(evt, zone) {
   evt.stopPropagation();
   evt.preventDefault();
-  evt.dataTransfer.dropEffect = 'copy'; // Explicitly show this is a copy.
 }
