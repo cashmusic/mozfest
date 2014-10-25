@@ -35,7 +35,7 @@ by GitHub, ask a session leader, or send a mention on twitter to [@jessevondoom]
 p5.js:  
   - [p5js.org](http://p5js.org)
   - [p5.sound](http://p5js.org/reference/#/libraries/p5.sound)
-  - [p5 Music Viz w/ micro-session](https://github.com/therewasaguy/mozfest/blob/master/sessions/p5.md)  
+  - [p5 Music Viz micro-session](https://github.com/therewasaguy/mozfest/blob/master/sessions/p5.md)  
   
 cashmusic.js:
   - https://github.com/cashmusic/cashmusic.js/  
