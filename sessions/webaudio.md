@@ -15,4 +15,10 @@ in an audio track — tweening and changing styles via simple JSON interface. Th
 coming out of dormancy, so we'll explore ways of creating free-form DOM manipulated art with 
 audio as a canvas. And maybe we'll hack it all kinds of up along the way.
 
+### BBC Music Visualisation
+At the BBC, we want to get teenagers interested in technology through creativity and music. To do this, we are exploring 'music visualisations' using Web Audio and HTML5 Canvas.
+We want your ideas on two main topics:
+1. What 'music' data can we extract from songs using the Web Audio API? E.g., can we detect when vocals kick in, can we differentiate between a verse and the chorus?
+2. What weird and wonderful things can we do with HTML5 to react to music? We all remeber those swirling patterns from windows media player visualisations, but can we do something a bit more creative and original?
+
 ### [Session Etherpad](https://festival.etherpad.mozilla.org/ZJfoAYlukB)
