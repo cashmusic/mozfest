@@ -7,7 +7,7 @@ specific detail around p5.js and cashmusic.js.
 **[p5.js](http://p5js.org)** is a front-end library  for creating graphic and interactive experiences, based on the 
 core principles of [Processing](https://processing.org/). Jason Sigal will lead a detailed look at 
 some of the visualization capabilities of p5.js and how it can render audio data to visual 
-display. More info [here](https://github.com/therewasaguy/p5-music-viz).
+display. More info [here](https://github.com/cashmusic/mozfest/blob/master/sessions/p5.md).
   
 ### cashmusic.js
 **cashmusic.js** is a library aimed (among other things) at DOM manipulation based on position
